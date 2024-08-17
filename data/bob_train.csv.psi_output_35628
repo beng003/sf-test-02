@@ -1,0 +1,71 @@
+UID,Age,Fault,PolicyType,VehicleCategory,VehiclePrice,PolicyNumber,RepNumber,Deductible,DriverRating,Days_Policy_Accident,Days_Policy_Claim,PastNumberOfClaims,AgeOfVehicle,AgeOfPolicyHolder,PoliceReportFiled,WitnessPresent,AgentType,NumberOfSuppliments,AddressChange_Claim,NumberOfCars,Year,BasePolicy,FraudFound_P
+43,41,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,44,5,400,2,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,1 to 2,no change,1 vehicle,1994,Collision,0
+35,34,Third Party,Sedan - Liability,Sport,20000 to 29000,36,5,400,3,more than 30,more than 30,2 to 4,7 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Liability,0
+85,27,Policy Holder,Utility - Liability,Utility,more than 69000,86,4,400,4,more than 30,more than 30,1,6 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Liability,0
+53,50,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,54,13,400,1,more than 30,more than 30,none,more than 7,41 to 50,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,1
+36,30,Third Party,Sedan - Collision,Sedan,20000 to 29000,37,11,400,4,more than 30,more than 30,none,6 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+40,35,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,41,11,400,1,more than 30,more than 30,2 to 4,6 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+46,32,Third Party,Sedan - Collision,Sedan,30000 to 39000,47,9,400,4,more than 30,more than 30,none,6 years,31 to 35,No,No,Internal,none,no change,1 vehicle,1994,Collision,0
+5,20,Third Party,Sport - Collision,Sport,more than 69000,6,12,400,3,more than 30,more than 30,none,5 years,21 to 25,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,0
+6,36,Third Party,Sport - Collision,Sport,more than 69000,7,14,400,1,more than 30,more than 30,1,7 years,36 to 40,No,No,External,1 to 2,no change,1 vehicle,1994,Collision,0
+49,59,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,50,9,400,4,more than 30,more than 30,more than 4,more than 7,51 to 65,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,0
+33,30,Third Party,Sedan - Collision,Sedan,20000 to 29000,34,2,400,4,more than 30,more than 30,none,6 years,31 to 35,No,No,External,1 to 2,no change,1 vehicle,1994,Collision,0
+21,47,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,22,13,400,2,more than 30,more than 30,1,more than 7,41 to 50,No,No,External,none,4 to 8 years,2 vehicles,1994,Collision,0
+84,0,Policy Holder,Sedan - Liability,Sport,more than 69000,85,6,400,2,more than 30,more than 30,more than 4,new,16 to 17,No,No,External,none,4 to 8 years,2 vehicles,1994,Liability,0
+59,27,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,60,4,400,4,more than 30,more than 30,none,6 years,31 to 35,No,No,External,1 to 2,no change,1 vehicle,1994,Collision,0
+48,37,Policy Holder,Sedan - Liability,Sport,more than 69000,49,10,400,1,more than 30,more than 30,2 to 4,6 years,36 to 40,No,No,External,3 to 5,no change,1 vehicle,1994,Liability,0
+81,37,Third Party,Sedan - Liability,Sport,20000 to 29000,82,6,400,2,more than 30,more than 30,1,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,Liability,0
+18,32,Policy Holder,Sedan - Liability,Sport,20000 to 29000,19,6,400,1,more than 30,more than 30,1,7 years,31 to 35,No,No,External,none,no change,1 vehicle,1994,Liability,0
+68,64,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,69,5,400,1,more than 30,more than 30,1,more than 7,51 to 65,No,No,External,none,no change,1 vehicle,1994,Collision,0
+82,36,Third Party,Sedan - All Perils,Sedan,more than 69000,83,13,400,4,more than 30,more than 30,none,7 years,36 to 40,No,No,External,none,no change,3 to 4,1994,All Perils,0
+8,30,Policy Holder,Sport - Collision,Sport,more than 69000,9,7,400,4,more than 30,more than 30,none,6 years,31 to 35,No,Yes,External,3 to 5,no change,1 vehicle,1994,Collision,0
+88,74,Third Party,Sedan - All Perils,Sedan,30000 to 39000,89,13,400,4,more than 30,more than 30,none,7 years,over 65,No,No,External,3 to 5,no change,1 vehicle,1994,All Perils,0
+98,41,Third Party,Sedan - All Perils,Sedan,20000 to 29000,99,12,400,4,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+99,36,Policy Holder,Sedan - All Perils,Sedan,20000 to 29000,100,10,400,1,more than 30,more than 30,1,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+100,31,Policy Holder,Utility - All Perils,Utility,more than 69000,101,2,400,1,more than 30,more than 30,more than 4,7 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,All Perils,1
+25,60,Policy Holder,Sedan - Liability,Sport,20000 to 29000,26,16,400,4,more than 30,more than 30,more than 4,more than 7,51 to 65,No,No,External,none,no change,1 vehicle,1994,Liability,0
+11,52,Policy Holder,Sedan - Liability,Sport,20000 to 29000,12,13,400,1,more than 30,more than 30,2 to 4,more than 7,41 to 50,No,No,External,none,no change,1 vehicle,1994,Liability,0
+97,40,Policy Holder,Sedan - All Perils,Sedan,less than 20000,98,4,400,4,more than 30,more than 30,1,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+87,39,Third Party,Sedan - All Perils,Sedan,20000 to 29000,88,1,400,2,more than 30,more than 30,2 to 4,4 years,36 to 40,No,No,External,more than 5,no change,1 vehicle,1994,All Perils,0
+57,37,Policy Holder,Sedan - Collision,Sedan,more than 69000,58,11,400,3,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,Collision,0
+72,28,Third Party,Sedan - Collision,Sedan,20000 to 29000,73,5,400,3,15 to 30,more than 30,1,5 years,31 to 35,No,No,External,none,no change,1 vehicle,1994,Collision,0
+24,45,Policy Holder,Sedan - All Perils,Sedan,more than 69000,25,12,400,3,more than 30,more than 30,more than 4,more than 7,36 to 40,Yes,No,External,none,no change,1 vehicle,1994,All Perils,0
+23,31,Third Party,Sedan - Liability,Sport,30000 to 39000,24,5,400,3,more than 30,more than 30,none,6 years,31 to 35,No,No,External,3 to 5,no change,1 vehicle,1994,Liability,0
+92,41,Policy Holder,Sedan - All Perils,Sedan,30000 to 39000,93,16,400,1,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+95,61,Third Party,Sedan - Collision,Sedan,30000 to 39000,96,15,400,4,more than 30,more than 30,none,more than 7,51 to 65,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+19,30,Third Party,Sedan - Liability,Sport,more than 69000,20,2,400,2,more than 30,more than 30,2 to 4,6 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Liability,0
+28,0,Policy Holder,Sedan - All Perils,Sedan,more than 69000,29,9,400,1,more than 30,more than 30,none,new,16 to 17,No,No,External,none,no change,1 vehicle,1994,All Perils,1
+89,23,Policy Holder,Sedan - Liability,Sport,20000 to 29000,90,8,400,2,more than 30,more than 30,2 to 4,4 years,26 to 30,No,No,External,none,no change,1 vehicle,1994,Liability,0
+58,0,Policy Holder,Sedan - Liability,Sport,more than 69000,59,15,400,4,more than 30,more than 30,none,new,16 to 17,No,No,External,none,no change,1 vehicle,1994,Liability,0
+32,42,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,33,2,400,3,more than 30,more than 30,more than 4,7 years,36 to 40,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,0
+66,40,Third Party,Sedan - Collision,Sedan,more than 69000,67,16,400,2,more than 30,more than 30,1,7 years,36 to 40,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+13,0,Third Party,Sedan - Collision,Sedan,more than 69000,14,12,400,3,more than 30,more than 30,none,new,16 to 17,No,No,External,none,no change,1 vehicle,1994,Collision,0
+83,44,Policy Holder,Sedan - Liability,Sport,20000 to 29000,84,9,400,4,more than 30,more than 30,none,6 years,36 to 40,No,No,External,1 to 2,no change,1 vehicle,1994,Liability,0
+31,0,Policy Holder,Sedan - Collision,Sedan,more than 69000,32,6,400,1,more than 30,more than 30,1,new,16 to 17,No,No,External,none,no change,1 vehicle,1994,Collision,0
+76,27,Third Party,Sedan - All Perils,Sedan,20000 to 29000,77,1,400,3,more than 30,more than 30,none,6 years,31 to 35,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+26,21,Policy Holder,Sedan - Collision,Sedan,30000 to 39000,27,1,400,2,more than 30,more than 30,more than 4,5 years,26 to 30,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+14,61,Policy Holder,Sedan - Liability,Sport,more than 69000,15,3,400,1,more than 30,more than 30,none,more than 7,51 to 65,No,No,External,none,no change,1 vehicle,1994,Liability,0
+70,44,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,71,16,400,1,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,0
+78,29,Policy Holder,Sedan - Liability,Sport,30000 to 39000,79,16,400,1,more than 30,more than 30,2 to 4,5 years,31 to 35,No,No,External,3 to 5,no change,1 vehicle,1994,Liability,0
+86,27,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,87,14,400,3,more than 30,more than 30,1,6 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+52,21,Policy Holder,Sport - Collision,Sport,more than 69000,53,4,400,4,more than 30,more than 30,none,4 years,26 to 30,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,1
+50,49,Policy Holder,Sedan - Liability,Sport,30000 to 39000,51,14,400,2,more than 30,more than 30,more than 4,more than 7,41 to 50,No,No,External,none,no change,1 vehicle,1994,Liability,0
+79,33,Third Party,Sedan - Collision,Sedan,30000 to 39000,80,10,400,1,more than 30,more than 30,2 to 4,7 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+73,47,Third Party,Sedan - Collision,Sedan,20000 to 29000,74,7,400,2,more than 30,more than 30,1,more than 7,41 to 50,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+34,42,Policy Holder,Utility - All Perils,Utility,more than 69000,35,12,400,1,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+63,26,Policy Holder,Sedan - Liability,Sport,20000 to 29000,64,13,400,3,more than 30,more than 30,2 to 4,7 years,31 to 35,No,No,External,more than 5,4 to 8 years,2 vehicles,1994,Liability,0
+55,49,Third Party,Sedan - All Perils,Sedan,20000 to 29000,56,7,400,4,more than 30,more than 30,none,more than 7,41 to 50,No,No,External,3 to 5,no change,1 vehicle,1994,All Perils,0
+12,28,Policy Holder,Sedan - Liability,Sport,more than 69000,13,11,400,1,more than 30,more than 30,1,7 years,31 to 35,No,No,External,none,no change,1 vehicle,1994,Liability,0
+17,28,Third Party,Sedan - Collision,Sedan,20000 to 29000,18,6,400,1,more than 30,more than 30,none,7 years,31 to 35,No,No,External,1 to 2,no change,1 vehicle,1994,Collision,0
+37,27,Policy Holder,Sedan - Collision,Sedan,30000 to 39000,38,4,400,2,more than 30,more than 30,none,7 years,31 to 35,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+41,44,Policy Holder,Sedan - All Perils,Sedan,20000 to 29000,42,15,400,1,more than 30,more than 30,2 to 4,7 years,36 to 40,No,No,External,3 to 5,no change,3 to 4,1994,All Perils,0
+1,34,Policy Holder,Sport - Collision,Sport,more than 69000,2,15,400,4,more than 30,more than 30,none,6 years,31 to 35,Yes,No,External,none,no change,1 vehicle,1994,Collision,0
+74,60,Third Party,Sedan - Collision,Sedan,more than 69000,75,12,400,3,more than 30,more than 30,more than 4,7 years,51 to 65,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+9,42,Policy Holder,Utility - All Perils,Utility,more than 69000,10,7,400,1,more than 30,more than 30,2 to 4,more than 7,36 to 40,No,No,External,3 to 5,no change,1 vehicle,1994,All Perils,0
+30,47,Policy Holder,Sedan - Collision,Sedan,30000 to 39000,31,2,400,1,more than 30,more than 30,2 to 4,more than 7,41 to 50,No,No,Internal,none,no change,1 vehicle,1994,Collision,0
+94,34,Policy Holder,Sport - Collision,Sport,more than 69000,95,7,400,3,more than 30,more than 30,none,7 years,31 to 35,No,No,External,3 to 5,no change,1 vehicle,1994,Collision,1
+90,25,Third Party,Sport - Collision,Sport,more than 69000,91,2,400,1,more than 30,more than 30,none,6 years,26 to 30,No,No,External,more than 5,no change,1 vehicle,1994,Collision,0
+29,39,Policy Holder,Sedan - Collision,Sedan,20000 to 29000,30,12,400,3,more than 30,more than 30,none,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,Collision,0
+65,31,Policy Holder,Sedan - All Perils,Sedan,20000 to 29000,66,6,400,3,more than 30,more than 30,none,7 years,31 to 35,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+16,41,Policy Holder,Sedan - All Perils,Sedan,more than 69000,17,15,400,4,more than 30,more than 30,none,7 years,36 to 40,No,No,External,none,no change,1 vehicle,1994,All Perils,0
+10,71,Policy Holder,Sedan - All Perils,Sedan,more than 69000,11,7,400,3,more than 30,more than 30,none,more than 7,over 65,No,No,External,none,no change,1 vehicle,1994,All Perils,0

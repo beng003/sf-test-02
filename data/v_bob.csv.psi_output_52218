@@ -1,0 +1,3 @@
+contact,day,month,duration,campaign,pdays,previous,poutcome,y,uid
+0,14,1,153,1,-1,0,0,0,2831
+0,14,1,360,2,-1,0,0,0,3102

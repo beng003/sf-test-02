@@ -1,0 +1,5 @@
+ray start --head \
+--node-ip-address="211.87.232.46" --port="6007" \
+--resources='{"alice": 16} ' \
+--include-dashboard=False \
+--disable-usage-stats

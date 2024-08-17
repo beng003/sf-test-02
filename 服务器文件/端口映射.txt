@@ -1,0 +1,11 @@
+
+# 211.87.232.46
+
+lxc config device add WangXL myport8888 proxy listen=tcp:211.87.232.46:6207 connect=tcp:10.109.105.169:8888 bind=host
+lxc config device add WangXL myport6307 proxy listen=tcp:211.87.232.46:6307 connect=tcp:10.109.105.169:6307 bind=host
+lxc config device add WangXL myport6407 proxy listen=tcp:211.87.232.46:6407 connect=tcp:10.109.105.169:6407 bind=host
+
+# 211.87.232.47
+lxc config device add WangXL myport8888 proxy listen=tcp:211.87.232.47:6207 connect=tcp:10.6.252.3:8888 bind=host
+lxc config device add WangXL myport6307 proxy listen=tcp:211.87.232.47:6307 connect=tcp:10.6.252.3:6307 bind=host
+lxc config device add WangXL myport6407 proxy listen=tcp:211.87.232.47:6407 connect=tcp:10.6.252.3:6407 bind=host
